@@ -14,8 +14,13 @@
 .test {
 margin: auto;
   top: 10;
+<<<<<<< HEAD
   left: 110;
   bottom: 110;
+=======
+  left: 10;
+  bottom: 10;
+>>>>>>> 7b65f16d065512b44ee391b1d9ccddc9a78eca25
   right: 0;
   display: flex;
   justify-content: center;
