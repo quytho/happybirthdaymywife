@@ -14,8 +14,8 @@
 .test {
 margin: auto;
   top: 10;
-  left: 1;
-  bottom: 1;
+  left: 110;
+  bottom: 110;
   right: 0;
   display: flex;
   justify-content: center;
